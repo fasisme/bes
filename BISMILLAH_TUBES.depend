@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1555430925 source:e:\tel-u\semester 2\std\bismillah\bismillah_tubes\main.cpp
+	<iostream>
+	"listM.h"
+	"listL.h"
+
+1555429344 source:e:\tel-u\semester 2\std\bismillah\bismillah_tubes\listm.cpp
+	<iostream>
+	"listM.h"
+
+1555429785 e:\tel-u\semester 2\std\bismillah\bismillah_tubes\listm.h
+	<iostream>
+
+1555430532 source:e:\tel-u\semester 2\std\bismillah\bismillah_tubes\listl.cpp
+	<iostream>
+	"listL.h"
+
+1555430114 e:\tel-u\semester 2\std\bismillah\bismillah_tubes\listl.h
+	<iostream>
+
+1555381110 source:e:\belajar std\tubes akhir\bismillah_tubes\main.cpp
+	<iostream>
+	"listM.h"
+	"listL.h"
+
+1555484386 e:\belajar std\tubes akhir\bismillah_tubes\listm.h
+	<iostream>
+
+1555484409 e:\belajar std\tubes akhir\bismillah_tubes\listl.h
+	<iostream>
+
+1555381114 source:e:\belajar std\tubes akhir\bismillah_tubes\listl.cpp
+	<iostream>
+	"listL.h"
+
+1555381114 source:e:\belajar std\tubes akhir\bismillah_tubes\listm.cpp
+	<iostream>
+	"listM.h"
+
+1555662874 source:e:\tel-u\semester 2\std\bismillah\nyobarelasi\listl.cpp
+	<iostream>
+	"listL.h"
+
+1555484409 e:\tel-u\semester 2\std\bismillah\nyobarelasi\listl.h
+	<iostream>
+
+1555381114 source:e:\tel-u\semester 2\std\bismillah\nyobarelasi\listm.cpp
+	<iostream>
+	"listM.h"
+
+1555484386 e:\tel-u\semester 2\std\bismillah\nyobarelasi\listm.h
+	<iostream>
+
+1555678780 source:e:\tel-u\semester 2\std\bismillah\nyobarelasi\main.cpp
+	<iostream>
+	"listM.h"
+	"listL.h"
+	"ListR.h"
+
+1555679121 source:e:\tel-u\semester 2\std\bismillah\nyobarelasi\listr.cpp
+	<iostream>
+	"listL.h"
+	"listM.h"
+	"ListR.h"
+
+1555677241 e:\tel-u\semester 2\std\bismillah\nyobarelasi\listr.h
+	<iostream>
+	"listL.h"
+	"listM.h"
+
+1555628918 source:e:\belajar std\tubes akhir\as]]li\tubes_relasi_done\listl.cpp
+	<iostream>
+	"listL.h"
+
+1555628918 e:\belajar std\tubes akhir\as]]li\tubes_relasi_done\listl.h
+	<iostream>
+
+1555628918 source:e:\belajar std\tubes akhir\as]]li\tubes_relasi_done\listm.cpp
+	<iostream>
+	"listM.h"
+
+1555628918 e:\belajar std\tubes akhir\as]]li\tubes_relasi_done\listm.h
+	<iostream>
+
+1555628918 source:e:\belajar std\tubes akhir\as]]li\tubes_relasi_done\listr.cpp
+	<iostream>
+	"listL.h"
+	"listM.h"
+	"ListR.h"
+
+1555628918 e:\belajar std\tubes akhir\as]]li\tubes_relasi_done\listr.h
+	<iostream>
+	"listL.h"
+	"listM.h"
+
+1555628920 source:e:\belajar std\tubes akhir\as]]li\tubes_relasi_done\main.cpp
+	<iostream>
+	"listM.h"
+	"listL.h"
+	"ListR.h"
+
+1555628918 source:e:\belajar std\tubes akhir\asli\tubes_relasi_done\listl.cpp
+	<iostream>
+	"listL.h"
+
+1555628918 e:\belajar std\tubes akhir\asli\tubes_relasi_done\listl.h
+	<iostream>
+
+1555628918 source:e:\belajar std\tubes akhir\asli\tubes_relasi_done\listm.cpp
+	<iostream>
+	"listM.h"
+
+1555628918 e:\belajar std\tubes akhir\asli\tubes_relasi_done\listm.h
+	<iostream>
+
+1555628918 source:e:\belajar std\tubes akhir\asli\tubes_relasi_done\listr.cpp
+	<iostream>
+	"listL.h"
+	"listM.h"
+	"ListR.h"
+
+1555628918 e:\belajar std\tubes akhir\asli\tubes_relasi_done\listr.h
+	<iostream>
+	"listL.h"
+	"listM.h"
+
+1555826094 source:e:\belajar std\tubes akhir\asli\tubes_relasi_done\main.cpp
+	<iostream>
+	"listM.h"
+	"listL.h"
+	"ListR.h"
+
+1556030717 source:e:\tel-u\semester 2\std\bismillah\bismillah menu\listl.cpp
+	<iostream>
+	"listL.h"
+
+1556028627 e:\tel-u\semester 2\std\bismillah\bismillah menu\listl.h
+	<iostream>
+
+1556031197 source:e:\tel-u\semester 2\std\bismillah\bismillah menu\listm.cpp
+	<iostream>
+	"listM.h"
+
+1556031396 e:\tel-u\semester 2\std\bismillah\bismillah menu\listm.h
+	<iostream>
+
+1556030889 source:e:\tel-u\semester 2\std\bismillah\bismillah menu\listr.cpp
+	<iostream>
+	"listL.h"
+	"listM.h"
+	"ListR.h"
+
+1555628918 e:\tel-u\semester 2\std\bismillah\bismillah menu\listr.h
+	<iostream>
+	"listL.h"
+	"listM.h"
+
+1556030842 source:e:\tel-u\semester 2\std\bismillah\bismillah menu\main.cpp
+	<iostream>
+	<cstdlib>
+	"stdlib.h"
+	"listM.h"
+	"listL.h"
+	"ListR.h"
+
+1556070455 source:e:\belajar std\tubes akhir\tinggaldelete\menu_lumayan\listl.cpp
+	<iostream>
+	"listL.h"
+
+1556070186 e:\belajar std\tubes akhir\tinggaldelete\menu_lumayan\listl.h
+	<iostream>
+
+1555981052 source:e:\belajar std\tubes akhir\tinggaldelete\menu_lumayan\listm.cpp
+	<iostream>
+	"listM.h"
+
+1555981052 e:\belajar std\tubes akhir\tinggaldelete\menu_lumayan\listm.h
+	<iostream>
+
+1555981052 source:e:\belajar std\tubes akhir\tinggaldelete\menu_lumayan\listr.cpp
+	<iostream>
+	"listL.h"
+	"listM.h"
+	"ListR.h"
+
+1555981052 e:\belajar std\tubes akhir\tinggaldelete\menu_lumayan\listr.h
+	<iostream>
+	"listL.h"
+	"listM.h"
+
+1556088274 source:e:\belajar std\tubes akhir\tinggaldelete\menu_lumayan\main.cpp
+	<iostream>
+	<cstdlib>
+	"stdlib.h"
+	"listM.h"
+	"listL.h"
+	"ListR.h"
+
+1556207236 source:e:\tel-u\semester 2\std\bismillah\menu_lumayan\listl.cpp
+	<iostream>
+	"listL.h"
+
+1556199514 e:\tel-u\semester 2\std\bismillah\menu_lumayan\listl.h
+	<iostream>
+
+1556207236 source:e:\tel-u\semester 2\std\bismillah\menu_lumayan\listm.cpp
+	<iostream>
+	"listM.h"
+
+1556206731 e:\tel-u\semester 2\std\bismillah\menu_lumayan\listm.h
+	<iostream>
+
+1556207310 source:e:\tel-u\semester 2\std\bismillah\menu_lumayan\listr.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"listL.h"
+	"listM.h"
+	"ListR.h"
+
+1556206469 e:\tel-u\semester 2\std\bismillah\menu_lumayan\listr.h
+	<iostream>
+	"listL.h"
+	"listM.h"
+
+1556207063 source:e:\tel-u\semester 2\std\bismillah\menu_lumayan\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<sstream>
+	"stdlib.h"
+	"listM.h"
+	"listL.h"
+	"ListR.h"
+
+1556157166 source:c:\users\fa\downloads\asliii\insyallah_done_fix\listl.cpp
+	<iostream>
+	"listL.h"
+
+1556157166 c:\users\fa\downloads\asliii\insyallah_done_fix\listl.h
+	<iostream>
+
+1556157166 source:c:\users\fa\downloads\asliii\insyallah_done_fix\listm.cpp
+	<iostream>
+	"listM.h"
+
+1556157166 c:\users\fa\downloads\asliii\insyallah_done_fix\listm.h
+	<iostream>
+
+1556157166 source:c:\users\fa\downloads\asliii\insyallah_done_fix\listr.cpp
+	<iostream>
+	<ctime>
+	<string>
+	"listL.h"
+	"listM.h"
+	"ListR.h"
+
+1556157166 c:\users\fa\downloads\asliii\insyallah_done_fix\listr.h
+	<iostream>
+	"listL.h"
+	"listM.h"
+
+1556157168 source:c:\users\fa\downloads\asliii\insyallah_done_fix\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<sstream>
+	"stdlib.h"
+	"listM.h"
+	"listL.h"
+	"ListR.h"
+
